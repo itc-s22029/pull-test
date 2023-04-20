@@ -10,3 +10,4 @@ var sortNumber = function(number) {
 var number = [19, 3, 81, 1, 24, 21];
 sortNumber(number)
 console.log(number)
+>>>>>>> 7192db0ed6f6245554129638e1eab2547f074b57
